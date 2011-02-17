@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 6
+bin
+*
+
+K 13
+svn:mergeinfo
+V 302
+/Abstract2ExecutableTC-Plugin-EFG2EIGMap/branches/bao/src:2359-2473
+/Abstract2ExecutableTC-Plugin-EFG2EIGMap/trunk:2359-2363
+/Abstract2ExecutableTC-Plugin-EFG2EIGMap/trunk/src:2359-2363
+/TestCaseExpander/branches/bao/src:2346-2358
+/TestCaseExpander/trunk:2344-2358
+/TestCaseExpander/trunk/src:2344-2358
+END

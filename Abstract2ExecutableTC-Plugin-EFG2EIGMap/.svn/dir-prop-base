@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 6
+bin
+*
+
+K 13
+svn:mergeinfo
+V 104
+/Abstract2ExecutableTC-Plugin-EFG2EIGMap/branches/bao:2359-2473
+/TestCaseExpander/branches/bao:2346-2358
+END

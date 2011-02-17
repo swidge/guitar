@@ -1,0 +1,14 @@
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mergeinfo
+V 222
+/Abstract2ExecutableTC-Plugin-EFG2EIGMap/branches/bao/src/edu/umd/cs/guitar/testcase/TestCaseExpander.java:2359-2473
+/Abstract2ExecutableTC-Plugin-EFG2EIGMap/trunk/edu/umd/cs/guitar/testcase/TestCaseExpander.java:2359-2363
+K 13
+svn:mime-type
+V 10
+text/plain
+END
