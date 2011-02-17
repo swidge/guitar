@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/guitar/!svn/ver/2372/TestCaseGenerator-Plugin-SequenceLengthCoverage/trunk/tests/edu/umd/cs/guitar/testcase/plugin
+END
+TCPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/guitar/!svn/ver/2372/TestCaseGenerator-Plugin-SequenceLengthCoverage/trunk/tests/edu/umd/cs/guitar/testcase/plugin/TCPlugin.java
+END
+SequenceLengthCoverageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/guitar/!svn/ver/2265/TestCaseGenerator-Plugin-SequenceLengthCoverage/trunk/tests/edu/umd/cs/guitar/testcase/plugin/SequenceLengthCoverageTest.java
+END

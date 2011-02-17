@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/guitar/!svn/ver/1671/TestCaseGenerator-Plugin-MinEventCoverage/trunk/src/edu/umd/cs/guitar/TestCaseGenerator-Plugins/MinEventCoverage
+END
+MinEventCoverage.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svnroot/guitar/!svn/ver/1671/TestCaseGenerator-Plugin-MinEventCoverage/trunk/src/edu/umd/cs/guitar/TestCaseGenerator-Plugins/MinEventCoverage/MinEventCoverage.java
+END
+TestCaseGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svnroot/guitar/!svn/ver/1671/TestCaseGenerator-Plugin-MinEventCoverage/trunk/src/edu/umd/cs/guitar/TestCaseGenerator-Plugins/MinEventCoverage/TestCaseGenerator.java
+END
+TestCaseGeneratorTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/guitar/!svn/ver/1671/TestCaseGenerator-Plugin-MinEventCoverage/trunk/src/edu/umd/cs/guitar/TestCaseGenerator-Plugins/MinEventCoverage/TestCaseGeneratorTools.java
+END
+TestCaseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/guitar/!svn/ver/1671/TestCaseGenerator-Plugin-MinEventCoverage/trunk/src/edu/umd/cs/guitar/TestCaseGenerator-Plugins/MinEventCoverage/TestCaseType.java
+END

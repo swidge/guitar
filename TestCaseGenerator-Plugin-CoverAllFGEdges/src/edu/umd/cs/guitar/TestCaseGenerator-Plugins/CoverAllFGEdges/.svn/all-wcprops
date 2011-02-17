@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/guitar/!svn/ver/1669/TestCaseGenerator-Plugin-CoverAllFGEdges/trunk/src/edu/umd/cs/guitar/TestCaseGenerator-Plugins/CoverAllFGEdges
+END
+TestCaseGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/guitar/!svn/ver/1669/TestCaseGenerator-Plugin-CoverAllFGEdges/trunk/src/edu/umd/cs/guitar/TestCaseGenerator-Plugins/CoverAllFGEdges/TestCaseGenerator.java
+END
+TestCaseGeneratorTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/guitar/!svn/ver/1669/TestCaseGenerator-Plugin-CoverAllFGEdges/trunk/src/edu/umd/cs/guitar/TestCaseGenerator-Plugins/CoverAllFGEdges/TestCaseGeneratorTools.java
+END
+CoverAllFGEdges.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/guitar/!svn/ver/1669/TestCaseGenerator-Plugin-CoverAllFGEdges/trunk/src/edu/umd/cs/guitar/TestCaseGenerator-Plugins/CoverAllFGEdges/CoverAllFGEdges.java
+END
+TestCaseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/guitar/!svn/ver/1669/TestCaseGenerator-Plugin-CoverAllFGEdges/trunk/src/edu/umd/cs/guitar/TestCaseGenerator-Plugins/CoverAllFGEdges/TestCaseType.java
+END

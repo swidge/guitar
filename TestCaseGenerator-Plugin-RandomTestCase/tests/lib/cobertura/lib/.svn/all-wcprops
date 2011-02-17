@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/cobertura/lib
+END
+log4j-1.2.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/cobertura/lib/log4j-1.2.9.jar
+END
+asm-tree-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/cobertura/lib/asm-tree-3.0.jar
+END
+jakarta-oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/cobertura/lib/jakarta-oro-2.0.8.jar
+END
+jakarta-oro-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/cobertura/lib/jakarta-oro-license.txt
+END
+asm-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/cobertura/lib/asm-3.0.jar
+END
+log4j-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/cobertura/lib/log4j-license.txt
+END

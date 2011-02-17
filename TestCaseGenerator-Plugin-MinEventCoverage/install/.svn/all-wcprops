@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/guitar/!svn/ver/1770/TestCaseGenerator-Plugin-MinEventCoverage/trunk/install
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/guitar/!svn/ver/1753/TestCaseGenerator-Plugin-MinEventCoverage/trunk/install/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/guitar/!svn/ver/1770/TestCaseGenerator-Plugin-MinEventCoverage/trunk/install/build.xml
+END

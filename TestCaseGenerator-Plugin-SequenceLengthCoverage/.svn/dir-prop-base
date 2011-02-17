@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 24
+bin
+.classpath
+.project
+
+K 13
+svn:mergeinfo
+V 64
+/TestCaseGenerator-Plugin-SequenceLengthCoverage/trunk:1996-2004
+END

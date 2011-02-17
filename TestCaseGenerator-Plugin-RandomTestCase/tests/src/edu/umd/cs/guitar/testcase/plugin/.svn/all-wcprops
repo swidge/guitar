@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/guitar/!svn/ver/2371/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/src/edu/umd/cs/guitar/testcase/plugin
+END
+TCPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/guitar/!svn/ver/2371/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/src/edu/umd/cs/guitar/testcase/plugin/TCPlugin.java
+END
+JUnitTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/guitar/!svn/ver/2266/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/src/edu/umd/cs/guitar/testcase/plugin/JUnitTests.java
+END
+RandomTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/guitar/!svn/ver/2266/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/src/edu/umd/cs/guitar/testcase/plugin/RandomTestCase.java
+END

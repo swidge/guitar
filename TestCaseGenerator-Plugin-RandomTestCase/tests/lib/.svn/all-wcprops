@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib
+END
+ganymed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/ganymed.jar
+END
+svnClientAdapter.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/svnClientAdapter.jar
+END
+ant-junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/ant-junit.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/junit.jar
+END
+svnant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/svnant.jar
+END
+JAVAHL-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/JAVAHL-LICENSE
+END
+SVNCLIENTADAPTER-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/SVNCLIENTADAPTER-LICENSE
+END
+svnjavahl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/svnjavahl.jar
+END
+svnkit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/svnkit.jar
+END
+emma.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/emma.jar
+END
+ant-contrib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/ant-contrib.jar
+END
+emma_ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/guitar/!svn/ver/2024/TestCaseGenerator-Plugin-RandomTestCase/trunk/tests/lib/emma_ant.jar
+END
