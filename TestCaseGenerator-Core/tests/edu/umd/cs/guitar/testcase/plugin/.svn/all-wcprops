@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/guitar/!svn/ver/2338/TestCaseGenerator-Core/trunk/tests/edu/umd/cs/guitar/testcase/plugin
+END
+EFGStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2020/TestCaseGenerator-Core/trunk/tests/edu/umd/cs/guitar/testcase/plugin/EFGStub.java
+END
+EFGVoidStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/guitar/!svn/ver/2020/TestCaseGenerator-Core/trunk/tests/edu/umd/cs/guitar/testcase/plugin/EFGVoidStub.java
+END
+TCPluginStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/guitar/!svn/ver/2020/TestCaseGenerator-Core/trunk/tests/edu/umd/cs/guitar/testcase/plugin/TCPluginStub.java
+END
+TCPluginTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/guitar/!svn/ver/2338/TestCaseGenerator-Core/trunk/tests/edu/umd/cs/guitar/testcase/plugin/TCPluginTest.java
+END
+SequenceLengthCoverage.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/guitar/!svn/ver/2267/TestCaseGenerator-Core/trunk/tests/edu/umd/cs/guitar/testcase/plugin/SequenceLengthCoverage.java
+END
+MockPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/guitar/!svn/ver/2303/TestCaseGenerator-Core/trunk/tests/edu/umd/cs/guitar/testcase/plugin/MockPlugin.java
+END
+EFG5EventsStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/guitar/!svn/ver/2020/TestCaseGenerator-Core/trunk/tests/edu/umd/cs/guitar/testcase/plugin/EFG5EventsStub.java
+END
+TCPluginPrivateStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/guitar/!svn/ver/2020/TestCaseGenerator-Core/trunk/tests/edu/umd/cs/guitar/testcase/plugin/TCPluginPrivateStub.java
+END
