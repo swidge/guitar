@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/guitar/!svn/ver/2018/GUIReplayer-Plugin-JFC/trunk/resources/config
+END
+configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/guitar/!svn/ver/2018/GUIReplayer-Plugin-JFC/trunk/resources/config/configuration.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/guitar/!svn/ver/2018/GUIReplayer-Plugin-JFC/trunk/resources/config/log4j.properties
+END
+ant-contrib-0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/guitar/!svn/ver/2018/GUIReplayer-Plugin-JFC/trunk/resources/config/ant-contrib-0.6.jar
+END

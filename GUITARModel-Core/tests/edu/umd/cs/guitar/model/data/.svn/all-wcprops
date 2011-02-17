@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data
+END
+ContentsTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/ContentsTypeTest.java
+END
+ComponentListTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/ComponentListTypeTest.java
+END
+EFGTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/EFGTest.java
+END
+ComponentTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/ComponentTypeTest.java
+END
+GUIStructureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/GUIStructureTest.java
+END
+EventGraphTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/EventGraphTypeTest.java
+END
+EventsTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/EventsTypeTest.java
+END
+ConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/ConfigurationTest.java
+END
+RowTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/RowTypeTest.java
+END
+TestCaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/TestCaseTest.java
+END
+StepTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/StepTypeTest.java
+END
+EventTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/EventTypeTest.java
+END
+ContainerTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/ContainerTypeTest.java
+END
+PropertyTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/PropertyTypeTest.java
+END
+GUITypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/GUITypeTest.java
+END
+FullComponentTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/FullComponentTypeTest.java
+END
+AttributesTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/AttributesTypeTest.java
+END
+ObjectFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/data/ObjectFactoryTest.java
+END

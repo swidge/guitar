@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/guitar/!svn/ver/2014/GUITARModel-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/event
+END
+JFCEditableTextHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/guitar/!svn/ver/2014/GUITARModel-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/event/JFCEditableTextHandlerTest.java
+END
+JFCSelectFromParentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/guitar/!svn/ver/2014/GUITARModel-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/event/JFCSelectFromParentTest.java
+END
+JFCEventHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/guitar/!svn/ver/2014/GUITARModel-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/event/JFCEventHandlerTest.java
+END
+JFCSelectionHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/guitar/!svn/ver/2014/GUITARModel-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/event/JFCSelectionHandlerTest.java
+END
+JFCValueHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/guitar/!svn/ver/2014/GUITARModel-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/event/JFCValueHandlerTest.java
+END
+JFCActionHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/guitar/!svn/ver/2014/GUITARModel-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/event/JFCActionHandlerTest.java
+END

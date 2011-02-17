@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 34
+bin
+.classpath
+.project
+.settings
+
+K 13
+svn:mergeinfo
+V 40
+/GUITARModel-Core/branches/bao:2008-2465
+END

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 20
+.classpath
+.project
+
+K 13
+svn:mergeinfo
+V 64
+/GUIStructure2Graph-Plugin-EventFlowGraph/branches/bao:2030-2471
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/guitar/!svn/ver/2063/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model
+END
+IOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/IOTest.java
+END
+GComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/guitar/!svn/ver/2063/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/GComponentTest.java
+END
+GApplicationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/guitar/!svn/ver/2063/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/GApplicationTest.java
+END
+GWindowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/guitar/!svn/ver/2063/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/GWindowTest.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/guitar/!svn/ver/2510/GUIReplayer-Core/trunk/src/edu/umd/cs/guitar/replayer/monitor
+END
+TestStepEndEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/guitar/!svn/ver/2176/GUIReplayer-Core/trunk/src/edu/umd/cs/guitar/replayer/monitor/TestStepEndEventArgs.java
+END
+PauseMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/guitar/!svn/ver/2469/GUIReplayer-Core/trunk/src/edu/umd/cs/guitar/replayer/monitor/PauseMonitor.java
+END
+TimeMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/guitar/!svn/ver/2469/GUIReplayer-Core/trunk/src/edu/umd/cs/guitar/replayer/monitor/TimeMonitor.java
+END
+StateMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/guitar/!svn/ver/2176/GUIReplayer-Core/trunk/src/edu/umd/cs/guitar/replayer/monitor/StateMonitor.java
+END
+TestStepStartEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/guitar/!svn/ver/2176/GUIReplayer-Core/trunk/src/edu/umd/cs/guitar/replayer/monitor/TestStepStartEventArgs.java
+END
+TestStepEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/guitar/!svn/ver/2176/GUIReplayer-Core/trunk/src/edu/umd/cs/guitar/replayer/monitor/TestStepEventArgs.java
+END
+StateMonitorFull.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/guitar/!svn/ver/2510/GUIReplayer-Core/trunk/src/edu/umd/cs/guitar/replayer/monitor/StateMonitorFull.java
+END
+GTestMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/guitar/!svn/ver/2176/GUIReplayer-Core/trunk/src/edu/umd/cs/guitar/replayer/monitor/GTestMonitor.java
+END

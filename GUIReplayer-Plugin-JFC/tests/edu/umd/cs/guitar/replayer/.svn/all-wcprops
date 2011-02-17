@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/guitar/!svn/ver/2334/GUIReplayer-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/replayer
+END
+checkboxesDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2018/GUIReplayer-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/replayer/checkboxesDemo.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/guitar/!svn/ver/2018/GUIReplayer-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/replayer/package-info.java
+END
+JFCReplayerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/guitar/!svn/ver/2312/GUIReplayer-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/replayer/JFCReplayerTest.java
+END
+JFCReplayerConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/guitar/!svn/ver/2018/GUIReplayer-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/replayer/JFCReplayerConfigurationTest.java
+END
+JFCReplayerMonitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/guitar/!svn/ver/2018/GUIReplayer-Plugin-JFC/trunk/tests/edu/umd/cs/guitar/replayer/JFCReplayerMonitorTest.java
+END

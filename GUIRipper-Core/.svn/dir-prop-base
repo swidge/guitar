@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 24
+.classpath
+.project
+bin
+
+K 13
+svn:mergeinfo
+V 38
+/GUIRipper-Core/branches/bao:2012-2467
+END

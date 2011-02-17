@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2472/GUIStructure2Graph-Plugin-EventFlowGraph/trunk/src/edu/umd/cs/guitar/graph/plugin
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/guitar/!svn/ver/2204/GUIStructure2Graph-Plugin-EventFlowGraph/trunk/src/edu/umd/cs/guitar/graph/plugin/package-info.java
+END
+EFGConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/guitar/!svn/ver/2472/GUIStructure2Graph-Plugin-EventFlowGraph/trunk/src/edu/umd/cs/guitar/graph/plugin/EFGConverter.java
+END

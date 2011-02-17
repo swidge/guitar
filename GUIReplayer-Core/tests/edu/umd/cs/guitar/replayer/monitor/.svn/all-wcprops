@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/guitar/!svn/ver/2289/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/monitor
+END
+TestStepEndEventArgsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/monitor/TestStepEndEventArgsTest.java
+END
+TSEndEvtArgsMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/monitor/TSEndEvtArgsMock.java
+END
+TimeMonitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/guitar/!svn/ver/2289/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/monitor/TimeMonitorTest.java
+END
+GTestMonitorMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/monitor/GTestMonitorMock.java
+END
+StateMonitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/guitar/!svn/ver/2270/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/monitor/StateMonitorTest.java
+END
+TestStateMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/monitor/TestStateMonitor.java
+END
+TestStepStartEventArgsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/monitor/TestStepStartEventArgsTest.java
+END
+TSStartEvtArgsMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/monitor/TSStartEvtArgsMock.java
+END
+TestStepEventArgsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/monitor/TestStepEventArgsTest.java
+END
+StateMonitorFullTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/guitar/!svn/ver/2289/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/monitor/StateMonitorFullTest.java
+END
+GTestMonitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/guitar/!svn/ver/2289/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/monitor/GTestMonitorTest.java
+END

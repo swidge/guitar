@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/guitar/!svn/ver/2471/GUIStructure2Graph-Core/trunk/tests
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/guitar/!svn/ver/2250/GUIStructure2Graph-Core/trunk/tests/build.properties
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/guitar/!svn/ver/2028/GUIStructure2Graph-Core/trunk/tests/README.txt
+END
+TestIllegalAccessExc.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/guitar/!svn/ver/2305/GUIStructure2Graph-Core/trunk/tests/TestIllegalAccessExc.java
+END
+TestFileNotFoundExc.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/guitar/!svn/ver/2353/GUIStructure2Graph-Core/trunk/tests/TestFileNotFoundExc.java
+END
+TestGenericExc.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/guitar/!svn/ver/2353/GUIStructure2Graph-Core/trunk/tests/TestGenericExc.java
+END
+TestExample2.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/guitar/!svn/ver/2305/GUIStructure2Graph-Core/trunk/tests/TestExample2.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/guitar/!svn/ver/2277/GUIStructure2Graph-Core/trunk/tests/build.xml
+END

@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 24
+.classpath
+.project
+bin
+
+K 13
+svn:mergeinfo
+V 44
+/GUIRipper-Plugin-JFC/branches/bao:2016-2464
+END

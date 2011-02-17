@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/guitar/!svn/ver/2510/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper
+END
+GRipperConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2182/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper/GRipperConfiguration.java
+END
+JFCRipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/guitar/!svn/ver/2510/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper/JFCRipper.java
+END
+JFCRipperMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/guitar/!svn/ver/2182/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper/JFCRipperMain.java
+END
+JFCRipperConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/guitar/!svn/ver/2488/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper/JFCRipperConfiguration.java
+END
+JFCRipperMointor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/guitar/!svn/ver/2490/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper/JFCRipperMointor.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/guitar/!svn/ver/2514/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/model
+END
+JFCConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/guitar/!svn/ver/2507/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/model/JFCConstants.java
+END
+MComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/guitar/!svn/ver/2180/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/model/MComponent.java
+END
+MGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/guitar/!svn/ver/2180/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/model/MGUI.java
+END
+JFCXWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/guitar/!svn/ver/2505/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/model/JFCXWindow.java
+END
+MGUIStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/guitar/!svn/ver/2180/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/model/MGUIStructure.java
+END
+JFCApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/guitar/!svn/ver/2180/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/model/JFCApplication.java
+END
+JFCDefaultIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/guitar/!svn/ver/2514/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/model/JFCDefaultIDGenerator.java
+END
+JFCContextHashcodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/guitar/!svn/ver/2506/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/model/JFCContextHashcodeGenerator.java
+END
+JFCDefaultHashcodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/guitar/!svn/ver/2506/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/model/JFCDefaultHashcodeGenerator.java
+END
+JFCXComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/guitar/!svn/ver/2509/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/model/JFCXComponent.java
+END
+MExplorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/guitar/!svn/ver/2180/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/model/MExplorer.java
+END

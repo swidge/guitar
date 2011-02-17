@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/wrapper
+END
+EFGWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/wrapper/EFGWrapperTest.java
+END
+EventWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/wrapper/EventWrapperTest.java
+END
+ComponentTypeWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/wrapper/ComponentTypeWrapperTest.java
+END
+GUIStructureWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/wrapper/GUIStructureWrapperTest.java
+END
+GUITypeWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/wrapper/GUITypeWrapperTest.java
+END
+PropertyTypeWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/wrapper/PropertyTypeWrapperTest.java
+END
+AttributesTypeWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/guitar/!svn/ver/2008/GUITARModel-Core/trunk/tests/edu/umd/cs/guitar/model/wrapper/AttributesTypeWrapperTest.java
+END

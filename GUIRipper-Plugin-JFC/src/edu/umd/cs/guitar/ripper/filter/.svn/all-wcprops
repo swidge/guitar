@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/guitar/!svn/ver/2502/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper/filter
+END
+JFCTabFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/guitar/!svn/ver/2502/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper/filter/JFCTabFilter.java
+END
+IgnoreWindowFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/guitar/!svn/ver/2489/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper/filter/IgnoreWindowFilter.java
+END
+JFCTerminalFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/guitar/!svn/ver/2489/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper/filter/JFCTerminalFilter.java
+END
+JFCTreeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2502/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper/filter/JFCTreeFilter.java
+END
+JFCIgnoreExpandFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/guitar/!svn/ver/2489/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper/filter/JFCIgnoreExpandFilter.java
+END
+JFCIgnoreSignExpandFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/guitar/!svn/ver/2489/GUIRipper-Plugin-JFC/trunk/src/edu/umd/cs/guitar/ripper/filter/JFCIgnoreSignExpandFilter.java
+END

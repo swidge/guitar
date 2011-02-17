@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/guitar/!svn/ver/2496/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/event
+END
+JFCEditableTextHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/guitar/!svn/ver/2490/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/event/JFCEditableTextHandler.java
+END
+JFCSelectFromParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2490/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/event/JFCSelectFromParent.java
+END
+JFCEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/guitar/!svn/ver/2481/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/event/JFCEventHandler.java
+END
+JFCSelectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2490/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/event/JFCSelectionHandler.java
+END
+JFCSelectTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/guitar/!svn/ver/2496/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/event/JFCSelectTreeNode.java
+END
+JFCActionEDT.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/guitar/!svn/ver/2490/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/event/JFCActionEDT.java
+END
+JFCValueHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/guitar/!svn/ver/2490/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/event/JFCValueHandler.java
+END
+JFCActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/guitar/!svn/ver/2490/GUITARModel-Plugin-JFC/trunk/src/edu/umd/cs/guitar/event/JFCActionHandler.java
+END

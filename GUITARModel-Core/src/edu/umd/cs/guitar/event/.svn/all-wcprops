@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/guitar/!svn/ver/2490/GUITARModel-Core/trunk/src/edu/umd/cs/guitar/event
+END
+GThreadEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/guitar/!svn/ver/2490/GUITARModel-Core/trunk/src/edu/umd/cs/guitar/event/GThreadEvent.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/guitar/!svn/ver/2174/GUITARModel-Core/trunk/src/edu/umd/cs/guitar/event/package-info.java
+END
+GEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/guitar/!svn/ver/2490/GUITARModel-Core/trunk/src/edu/umd/cs/guitar/event/GEvent.java
+END
+EventManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/guitar/!svn/ver/2486/GUITARModel-Core/trunk/src/edu/umd/cs/guitar/event/EventManager.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/guitar/!svn/ver/2289/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer
+END
+ButtonDemo.efg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/ButtonDemo.efg.xml
+END
+GUITypeMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/GUITypeMock.java
+END
+GAppMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/GAppMock.java
+END
+GReplayerMonitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/GReplayerMonitorTest.java
+END
+GEventMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/GEventMock.java
+END
+ReplayerErrorMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/ReplayerErrorMock.java
+END
+GWindowStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/guitar/!svn/ver/2076/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/GWindowStub.java
+END
+GReplayerMonitorMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/GReplayerMonitorMock.java
+END
+t0.tst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/t0.tst
+END
+ButtonDemo.gui copy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/ButtonDemo.gui%20copy.xml
+END
+ComponentTypeMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/ComponentTypeMock.java
+END
+GReplayerConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/GReplayerConfigurationTest.java
+END
+ButtonDemo.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/ButtonDemo.gui.xml
+END
+ReplayerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/guitar/!svn/ver/2289/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/ReplayerTest.java
+END
+GComponentMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/guitar/!svn/ver/2270/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/GComponentMock.java
+END
+TestCaseMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/TestCaseMock.java
+END
+StepTypeMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/guitar/!svn/ver/2270/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/StepTypeMock.java
+END
+ButtonDemo.efg copy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/ButtonDemo.efg%20copy.xml
+END
+GReplayerMonitorMock2.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/guitar/!svn/ver/2010/GUIReplayer-Core/trunk/tests/edu/umd/cs/guitar/replayer/GReplayerMonitorMock2.java
+END
