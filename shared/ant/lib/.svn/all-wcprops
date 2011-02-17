@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/guitar/!svn/ver/2383/shared/ant/lib
+END
+jaxb1-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/guitar/!svn/ver/294/shared/ant/lib/jaxb1-impl.jar
+END
+svnClientAdapter.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/guitar/!svn/ver/1684/shared/ant/lib/svnClientAdapter.jar
+END
+jaxb-xjc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/guitar/!svn/ver/294/shared/ant/lib/jaxb-xjc.jar
+END
+svnant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/guitar/!svn/ver/1684/shared/ant/lib/svnant.jar
+END
+ant-dotnet-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/guitar/!svn/ver/2216/shared/ant/lib/ant-dotnet-1.0.jar
+END
+collection-setter-injector.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/guitar/!svn/ver/294/shared/ant/lib/collection-setter-injector.jar
+END
+SharpCover.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/guitar/!svn/ver/2354/shared/ant/lib/SharpCover.dll
+END
+svnkit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/guitar/!svn/ver/1684/shared/ant/lib/svnkit.jar
+END
+ant_doxygen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/guitar/!svn/ver/2383/shared/ant/lib/ant_doxygen.jar
+END
+ant-contrib-0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/guitar/!svn/ver/1659/shared/ant/lib/ant-contrib-0.6.jar
+END
+jaxb-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/guitar/!svn/ver/294/shared/ant/lib/jaxb-impl.jar
+END
+ganymed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/guitar/!svn/ver/1684/shared/ant/lib/ganymed.jar
+END
+jaxb-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/guitar/!svn/ver/294/shared/ant/lib/jaxb-api.jar
+END
+svnjavahl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/guitar/!svn/ver/1684/shared/ant/lib/svnjavahl.jar
+END
+SharpCoverNAnt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/guitar/!svn/ver/2354/shared/ant/lib/SharpCoverNAnt.dll
+END
+jsr173_1.0_api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/guitar/!svn/ver/294/shared/ant/lib/jsr173_1.0_api.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/guitar/!svn/ver/294/shared/ant/lib/activation.jar
+END

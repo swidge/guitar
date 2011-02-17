@@ -1,0 +1,23 @@
+aut https://guitar.svn.sourceforge.net/svnroot/guitar/examples/RadioButton
+shared https://guitar.svn.sourceforge.net/svnroot/guitar/shared
+GUIReplayer-Core https://guitar.svn.sourceforge.net/svnroot/guitar/GUIReplayer-Core/trunk
+GUIReplayer-Plugin-JFC https://guitar.svn.sourceforge.net/svnroot/guitar/GUIReplayer-Plugin-JFC/trunk
+GUIRipper-Core https://guitar.svn.sourceforge.net/svnroot/guitar/GUIRipper-Core/trunk
+GUIRipper-Plugin-JFC https://guitar.svn.sourceforge.net/svnroot/guitar/GUIRipper-Plugin-JFC/trunk
+GUIStructure2Graph-Core https://guitar.svn.sourceforge.net/svnroot/guitar/GUIStructure2Graph-Core/trunk
+GUIStructure2Graph-Plugin-EventFlowGraph https://guitar.svn.sourceforge.net/svnroot/guitar/GUIStructure2Graph-Plugin-EventFlowGraph/trunk
+GUITARModel-Core https://guitar.svn.sourceforge.net/svnroot/guitar/GUITARModel-Core/trunk
+GUITARModel-Plugin-JFC https://guitar.svn.sourceforge.net/svnroot/guitar/GUITARModel-Plugin-JFC/trunk
+TestCaseGenerator-Core https://guitar.svn.sourceforge.net/svnroot/guitar/TestCaseGenerator-Core/trunk
+TestCaseGenerator-Plugin-CoverAllEvents https://guitar.svn.sourceforge.net/svnroot/guitar/TestCaseGenerator-Plugin-CoverAllEvents/trunk
+TestCaseGenerator-Plugin-CoverAllFGEdges https://guitar.svn.sourceforge.net/svnroot/guitar/TestCaseGenerator-Plugin-CoverAllFGEdges/trunk
+TestCaseGenerator-Plugin-MinEdgeCoverage https://guitar.svn.sourceforge.net/svnroot/guitar/TestCaseGenerator-Plugin-MinEdgeCoverage/trunk
+TestCaseGenerator-Plugin-MinEventCoverage https://guitar.svn.sourceforge.net/svnroot/guitar/TestCaseGenerator-Plugin-MinEventCoverage/trunk
+TestCaseGenerator-Plugin-RandomTestCase https://guitar.svn.sourceforge.net/svnroot/guitar/TestCaseGenerator-Plugin-RandomTestCase/trunk
+TestCaseGenerator-Plugin-SequenceLengthCoverage https://guitar.svn.sourceforge.net/svnroot/guitar/TestCaseGenerator-Plugin-SequenceLengthCoverage/trunk
+Abstract2ExecutableTC-Core https://guitar.svn.sourceforge.net/svnroot/guitar/Abstract2ExecutableTC-Core/trunk
+Abstract2ExecutableTC-Plugin-EFG2EIGMap https://guitar.svn.sourceforge.net/svnroot/guitar/Abstract2ExecutableTC-Plugin-EFG2EIGMap/trunk
+Graph2Graph-Core https://guitar.svn.sourceforge.net/svnroot/guitar/Graph2Graph-Core/trunk
+Graph2Graph-Plugin-EFG2EIG https://guitar.svn.sourceforge.net/svnroot/guitar/Graph2Graph-Plugin-EFG2EIG/trunk
+Graph2Graph-Plugin-EIG2ECIG https://guitar.svn.sourceforge.net/svnroot/guitar/Graph2Graph-Plugin-EIG2ECIG/trunk
+

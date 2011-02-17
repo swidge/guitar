@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/guitar/!svn/ver/1433/shared/ydoc-3.0_01-jdk1.5/resources/styles
+END
+default-style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/guitar/!svn/ver/1433/shared/ydoc-3.0_01-jdk1.5/resources/styles/default-style.xml
+END
+original-style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/guitar/!svn/ver/1433/shared/ydoc-3.0_01-jdk1.5/resources/styles/original-style.xml
+END
+dark-matter-style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/guitar/!svn/ver/1433/shared/ydoc-3.0_01-jdk1.5/resources/styles/dark-matter-style.xml
+END
+theBlues-style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/guitar/!svn/ver/1433/shared/ydoc-3.0_01-jdk1.5/resources/styles/theBlues-style.xml
+END
+yFiles-style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/guitar/!svn/ver/1433/shared/ydoc-3.0_01-jdk1.5/resources/styles/yFiles-style.xml
+END
+dotnet-style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/guitar/!svn/ver/1433/shared/ydoc-3.0_01-jdk1.5/resources/styles/dotnet-style.xml
+END
+gradient-style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/guitar/!svn/ver/1433/shared/ydoc-3.0_01-jdk1.5/resources/styles/gradient-style.xml
+END
+muted-colors-style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/guitar/!svn/ver/1433/shared/ydoc-3.0_01-jdk1.5/resources/styles/muted-colors-style.xml
+END
+ydocstyle.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/guitar/!svn/ver/1433/shared/ydoc-3.0_01-jdk1.5/resources/styles/ydocstyle.xsd
+END

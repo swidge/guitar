@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	Copyright (c) 2009. The GUITAR group at the University of Maryland. Names of owners 
+	of this group may be obtained by sending an e-mail to atif@cs.umd.edu
+
+	Permission is hereby granted, free of charge, to any person obtaining a copy of this 
+	software and associated documentation files (the "Software"), to deal in the Software 
+	without restriction, including without limitation the rights to use, copy, modify, merge, 
+	publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons 
+	to whom the Software is furnished to do so, subject to the following conditions:
+
+	The above copyright notice and this permission notice shall be included in all copies or 
+	substantial portions of the Software. 
+	
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING 
+	BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+	NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+	DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   Purpose:  Ant build file for GUITAR.tool.
+
+             Ant-Download: http://jakarta.apache.org/ant
+             Ant-Manual:   http://jakarta.apache.org/ant/manual/index.html
+
+             GUITAR-Homepage:    http://guitar.sourceforge.net
+
+   Precondition: 1. Ant should be installed.
+                 2. JAVA_HOME environment variable contains the path to JDK1.6 or higher
+                 3. ANT_HOME environment variable contains the path to ant 1.7.1 or higher
+
+   Language: XML
+   Compiler: Ant
+   Authors:  Atif M Memon, atif@cs.umd.edu
+             
+   Version:  $Revision: 1$
+             $Date: 2009-09-18$
+             $Author: Atif M Memon$
+ 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+<project name="GUITAR.tool" default="help" basedir=".">
+
+<property name="allModules" value = "GUITARModel-Core,GUITARModel-Plugin-JFC,Graph2Graph-Plugin-EFG2EIG,Graph2Graph-Plugin-EIG2ECIG,GUIRipper-Core,GUIRipper-Plugin-JFC,TestCaseGenerator-Core,TestCaseGenerator-Plugin-RandomTestCase,TestCaseGenerator-Plugin-CoverAllEvents,TestCaseGenerator-Plugin-SequenceLengthCoverage,TestCaseGenerator-Plugin-CoverAllFGEdges,TestCaseGenerator-Plugin-MinEdgeCoverage,TestCaseGenerator-Plugin-MinEventCoverage,GUIStructure2Graph-Core,GUIStructure2Graph-Plugin-EventFlowGraph,GUIReplayer-Core,GUIReplayer-Plugin-JFC" />
+
+<echo message = "Working on ${allModules}"/>
+
+	 <taskdef resource="net/sf/antcontrib/antcontrib.properties">
+	  <classpath>
+	   <pathelement location="shared/ant/lib/ant-contrib-0.6.jar"/>
+	  </classpath>
+	 </taskdef>
+
+
+	<!-- Help -->
+	<target name="help">
+		<echo message="This build script will create the complete GUITAR suite of tools!" />
+		<echo message="The script supports the following targets:" />
+		<echo message="modules: simply invokes the build.xml files in each module." />
+	</target>
+
+	<!-- Modules -->
+	<target name="modules">
+		<for list="${allModules}" param="module">
+		 <sequential>	
+		  <echo message = "Building @{module}"/>
+		  <ant antfile="build.xml" dir="@{module}/install" target="all"/>
+		 </sequential>
+		</for> 
+	</target>
+
+	<target name="cleansrc">
+		<for list="${allModules}" param="module">
+		 <sequential>	
+		  <echo message = "Deleting @{module}"/>
+		  <delete dir="@{module}" defaultexcludes="false" includeEmptyDirs="true"/>
+		 </sequential>
+		</for> 
+	</target>
+</project>
+
